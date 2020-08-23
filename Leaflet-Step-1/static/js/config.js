@@ -1,0 +1,2 @@
+// API
+var API_KEY = "YOU KEY HERE"
